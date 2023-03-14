@@ -3,7 +3,7 @@ import React, {useEffect} from 'react'
  function Center() {
 
   return (
-    <div>Center</div>
+    <div>Cenr</div>
   )
 }
 
